@@ -1,1 +1,19 @@
-p  {color: blueviolet;}
+Estilizar a cor de fundo do seu site como o css
+body{
+background-color:azure) ;
+} 
+
+Estilizar o título principal do seu site
+ h1{
+color:red ;
+font-family: ;
+background: ; 
+}
+
+Estilizar os parágrafos
+p{
+color:black ;
+font-family: ;
+font-size: ;
+background: ;
+}

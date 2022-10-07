@@ -14,6 +14,6 @@ Estilizar os parágrafos
 p{
 color:black ;
 font-family: ;
-font-size: ;
-background: ;
+font: size 25px; ;
+background:white ;
 }
